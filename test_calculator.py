@@ -1,4 +1,4 @@
-from calculator import add, subtract, multiply, divide
+from calculator import add, subtract, multiply, divide, CircleArea
 import pytest
 
 def test_add():
